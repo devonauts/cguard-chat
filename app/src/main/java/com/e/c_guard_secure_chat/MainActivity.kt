@@ -2,6 +2,7 @@ package com.e.c_guard_secure_chat
 
 import android.os.Bundle
 import android.view.Menu
+import android.view.View
 import com.google.android.material.snackbar.Snackbar
 import com.google.android.material.navigation.NavigationView
 import androidx.navigation.findNavController
@@ -38,6 +39,16 @@ class MainActivity : AppCompatActivity() {
         )
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
+    }
+
+    fun loginButtonNavClicked (view: View) {
+
+    }
+    fun addChannelButtonClicked(view: View) {
+
+    }
+    fun sendMessageButtonClicked(view: View) {
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
