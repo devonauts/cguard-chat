@@ -10,4 +10,11 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="generate_background_color">Generate Background Color</string>
+    <string name="tap_to_generate_user_avatar">Tap to generate user avatar</string>
+    <string name="password">Password</string>
+    <string name="create_user">Create User</string>
+    <string name="userprofile">userProfile</string>
 </resources>
